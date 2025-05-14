@@ -1,0 +1,45 @@
+﻿/* SVG kutusu */
+.svg-box {
+    width: 60px;
+    height: 60px;
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.05);
+}
+
+    /* Üzerine gelince */
+    .svg-box:hover {
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.25);
+    }
+
+    /* Seçildiğinde */
+    .svg-box.selected {
+        border: 2px solid #007bff;
+        background-color: #e9f3ff;
+    }
+
+/* SVG içi */
+.svg-thumb {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+/* Kutuları yatay sırala ve taşarsa alta geçir, sadece dikey scroll */
+#svg-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    max-height: 400px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 10px;
+}

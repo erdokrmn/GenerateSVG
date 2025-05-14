@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "Ex0P1HcwHKA9AxMuhHKU0ByN6JzeH+B2kE2T+3XJYxc=",
+  "Source": "GenerateSVG",
+  "BasePath": "_content/GenerateSVG",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GenerateSVG\\wwwroot",
+      "Source": "GenerateSVG",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\css\\shape-list.css",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "css/shape-list#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "26w6uq22yv",
+      "Integrity": "Wg7TKMzTOKht4BJsWfZHe3Yob4EvoTvQ6LQv1A2UX40=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\shape-list.css"
+    },
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\js\\shape-list.js",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "js/shape-list#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ju95ml8x6b",
+      "Integrity": "G8sX8jO4G7kxQ3rtwJqeJBohu6yY4OL3Avyg2U4x9b8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\shape-list.js"
+    },
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\circle_black_filled_0.svg",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "svgs/circle_black_filled_0#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aq1t16xr8c",
+      "Integrity": "AvenIponsKtMVk/5Oq2GB0psRfySnct6QGnOyV4t6qM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\svgs\\circle_black_filled_0.svg"
+    },
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_black_filled_0.svg",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "svgs/triangle_black_filled_0#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "71b2im944x",
+      "Integrity": "W55hQBVHi6g+r0W/i0HBsBklK9Tl/JFedDWH738ASR0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\svgs\\triangle_black_filled_0.svg"
+    },
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_green_filled_0.svg",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "svgs/triangle_green_filled_0#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iykxvd6urn",
+      "Integrity": "WpsZleaK82lWU4KapiQb1lj/+rJLQIszoX0DxBwLXzo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\svgs\\triangle_green_filled_0.svg"
+    },
+    {
+      "Identity": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_red_filled_0.svg",
+      "SourceId": "GenerateSVG",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\",
+      "BasePath": "_content/GenerateSVG",
+      "RelativePath": "svgs/triangle_red_filled_0#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ulbtekfjyh",
+      "Integrity": "/tEIRZT49639T17o9N3Sfvu72l7u9S8P9sKRv3sNWXI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\svgs\\triangle_red_filled_0.svg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/shape-list.26w6uq22yv.css",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\css\\shape-list.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7TKMzTOKht4BJsWfZHe3Yob4EvoTvQ6LQv1A2UX40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "26w6uq22yv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/shape-list.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7TKMzTOKht4BJsWfZHe3Yob4EvoTvQ6LQv1A2UX40="
+        }
+      ]
+    },
+    {
+      "Route": "css/shape-list.css",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\css\\shape-list.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "983"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7TKMzTOKht4BJsWfZHe3Yob4EvoTvQ6LQv1A2UX40=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:44:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7TKMzTOKht4BJsWfZHe3Yob4EvoTvQ6LQv1A2UX40="
+        }
+      ]
+    },
+    {
+      "Route": "js/shape-list.js",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\js\\shape-list.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8sX8jO4G7kxQ3rtwJqeJBohu6yY4OL3Avyg2U4x9b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:41:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8sX8jO4G7kxQ3rtwJqeJBohu6yY4OL3Avyg2U4x9b8="
+        }
+      ]
+    },
+    {
+      "Route": "js/shape-list.ju95ml8x6b.js",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\js\\shape-list.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"G8sX8jO4G7kxQ3rtwJqeJBohu6yY4OL3Avyg2U4x9b8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:41:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ju95ml8x6b"
+        },
+        {
+          "Name": "label",
+          "Value": "js/shape-list.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-G8sX8jO4G7kxQ3rtwJqeJBohu6yY4OL3Avyg2U4x9b8="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/circle_black_filled_0.aq1t16xr8c.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\circle_black_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AvenIponsKtMVk/5Oq2GB0psRfySnct6QGnOyV4t6qM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aq1t16xr8c"
+        },
+        {
+          "Name": "label",
+          "Value": "svgs/circle_black_filled_0.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvenIponsKtMVk/5Oq2GB0psRfySnct6QGnOyV4t6qM="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/circle_black_filled_0.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\circle_black_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AvenIponsKtMVk/5Oq2GB0psRfySnct6QGnOyV4t6qM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:57:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AvenIponsKtMVk/5Oq2GB0psRfySnct6QGnOyV4t6qM="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_black_filled_0.71b2im944x.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_black_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W55hQBVHi6g+r0W/i0HBsBklK9Tl/JFedDWH738ASR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "71b2im944x"
+        },
+        {
+          "Name": "label",
+          "Value": "svgs/triangle_black_filled_0.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W55hQBVHi6g+r0W/i0HBsBklK9Tl/JFedDWH738ASR0="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_black_filled_0.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_black_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W55hQBVHi6g+r0W/i0HBsBklK9Tl/JFedDWH738ASR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:45:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W55hQBVHi6g+r0W/i0HBsBklK9Tl/JFedDWH738ASR0="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_green_filled_0.iykxvd6urn.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_green_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpsZleaK82lWU4KapiQb1lj/+rJLQIszoX0DxBwLXzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:35:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iykxvd6urn"
+        },
+        {
+          "Name": "label",
+          "Value": "svgs/triangle_green_filled_0.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpsZleaK82lWU4KapiQb1lj/+rJLQIszoX0DxBwLXzo="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_green_filled_0.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_green_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WpsZleaK82lWU4KapiQb1lj/+rJLQIszoX0DxBwLXzo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:35:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WpsZleaK82lWU4KapiQb1lj/+rJLQIszoX0DxBwLXzo="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_red_filled_0.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_red_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tEIRZT49639T17o9N3Sfvu72l7u9S8P9sKRv3sNWXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:41:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tEIRZT49639T17o9N3Sfvu72l7u9S8P9sKRv3sNWXI="
+        }
+      ]
+    },
+    {
+      "Route": "svgs/triangle_red_filled_0.ulbtekfjyh.svg",
+      "AssetFile": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_red_filled_0.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/tEIRZT49639T17o9N3Sfvu72l7u9S8P9sKRv3sNWXI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:41:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ulbtekfjyh"
+        },
+        {
+          "Name": "label",
+          "Value": "svgs/triangle_red_filled_0.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/tEIRZT49639T17o9N3Sfvu72l7u9S8P9sKRv3sNWXI="
+        }
+      ]
+    }
+  ]
+}

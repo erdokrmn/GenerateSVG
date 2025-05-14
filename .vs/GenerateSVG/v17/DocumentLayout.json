@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\views\\shape\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\views\\shape\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\views\\shape\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\views\\shape\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\controllers\\shapecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\services\\services\\svgbuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\services\\services\\svgbuilderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\wwwroot\\css\\shape-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\wwwroot\\css\\shape-list.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\models\\viewmodels\\shapematrixviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\models\\viewmodels\\shapematrixviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|c:\\users\\erdo\\source\\repos\\generatesvg\\generatesvg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{958D39A1-B40D-42F0-A824-4F5E55CE9102}|GenerateSVG\\GenerateSVG.csproj|solutionrelative:generatesvg\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SvgBuilderService.cs",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Services\\Services\\SvgBuilderService.cs",
+              "RelativeDocumentMoniker": "GenerateSVG\\Services\\Services\\SvgBuilderService.cs",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Services\\Services\\SvgBuilderService.cs",
+              "RelativeToolTip": "GenerateSVG\\Services\\Services\\SvgBuilderService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:50:15.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shape-list.css",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\css\\shape-list.css",
+              "RelativeDocumentMoniker": "GenerateSVG\\wwwroot\\css\\shape-list.css",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\css\\shape-list.css",
+              "RelativeToolTip": "GenerateSVG\\wwwroot\\css\\shape-list.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-14T08:38:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeController.cs",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Controllers\\ShapeController.cs",
+              "RelativeDocumentMoniker": "GenerateSVG\\Controllers\\ShapeController.cs",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Controllers\\ShapeController.cs",
+              "RelativeToolTip": "GenerateSVG\\Controllers\\ShapeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:44:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Views\\Shape\\List.cshtml",
+              "RelativeDocumentMoniker": "GenerateSVG\\Views\\Shape\\List.cshtml",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Views\\Shape\\List.cshtml",
+              "RelativeToolTip": "GenerateSVG\\Views\\Shape\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T08:26:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShapeMatrixViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Models\\ViewModels\\ShapeMatrixViewModel.cs",
+              "RelativeDocumentMoniker": "GenerateSVG\\Models\\ViewModels\\ShapeMatrixViewModel.cs",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Models\\ViewModels\\ShapeMatrixViewModel.cs",
+              "RelativeToolTip": "GenerateSVG\\Models\\ViewModels\\ShapeMatrixViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:27:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Views\\Shape\\Create.cshtml",
+              "RelativeDocumentMoniker": "GenerateSVG\\Views\\Shape\\Create.cshtml",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\Views\\Shape\\Create.cshtml",
+              "RelativeToolTip": "GenerateSVG\\Views\\Shape\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:53:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\appsettings.json",
+              "RelativeDocumentMoniker": "GenerateSVG\\appsettings.json",
+              "ToolTip": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\appsettings.json",
+              "RelativeToolTip": "GenerateSVG\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:40:46.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

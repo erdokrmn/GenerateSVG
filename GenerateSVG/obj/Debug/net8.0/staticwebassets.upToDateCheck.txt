@@ -1,0 +1,6 @@
+wwwroot\css\shape-list.css
+wwwroot\js\shape-list.js
+wwwroot\svgs\circle_black_filled_0.svg
+wwwroot\svgs\triangle_black_filled_0.svg
+wwwroot\svgs\triangle_green_filled_0.svg
+wwwroot\svgs\triangle_red_filled_0.svg
