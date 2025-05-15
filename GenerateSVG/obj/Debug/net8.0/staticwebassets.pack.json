@@ -17,12 +17,20 @@
       "PackagePath": "staticwebassets\\svgs\\triangle_black_filled_0.svg"
     },
     {
+      "Id": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_black_outline_0.svg",
+      "PackagePath": "staticwebassets\\svgs\\triangle_black_outline_0.svg"
+    },
+    {
       "Id": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_green_filled_0.svg",
       "PackagePath": "staticwebassets\\svgs\\triangle_green_filled_0.svg"
     },
     {
       "Id": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_red_filled_0.svg",
       "PackagePath": "staticwebassets\\svgs\\triangle_red_filled_0.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdo\\source\\repos\\GenerateSVG\\GenerateSVG\\wwwroot\\svgs\\triangle_red_outline_0.svg",
+      "PackagePath": "staticwebassets\\svgs\\triangle_red_outline_0.svg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GenerateSVG.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

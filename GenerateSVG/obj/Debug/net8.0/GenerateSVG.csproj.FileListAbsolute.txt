@@ -158,3 +158,4 @@ C:\Users\erdo\source\repos\GenerateSVG\GenerateSVG\bin\Debug\net8.0\zh-Hans\Micr
 C:\Users\erdo\source\repos\GenerateSVG\GenerateSVG\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\erdo\source\repos\GenerateSVG\GenerateSVG\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\erdo\source\repos\GenerateSVG\GenerateSVG\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\erdo\source\repos\GenerateSVG\GenerateSVG\obj\Debug\net8.0\GenerateSVG.sourcelink.json
